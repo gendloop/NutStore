@@ -1,9 +1,9 @@
-# RepoName
+# NutStore
 
 ## Install
 
 ```powershell
-scoop install gendloopBucket/RepoName
+scoop install gendloopBucket/NutStore
 ```
 
 ## Notes
